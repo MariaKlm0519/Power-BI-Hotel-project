@@ -1,0 +1,5 @@
+plan,name
+Meal Plan 1, Без питания
+Meal Plan 2, Завтрак
+Meal Plan 3, Полупансион
+Not Selected,
